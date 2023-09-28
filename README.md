@@ -10,4 +10,4 @@ URL=https://my-food-recipes-app.netlify.app
 - **HTML** 🚀
 - **CSS** 🚀
 - **JavaScript** 🚀
-- **SASS** 🚀
+- *API** 🚀
