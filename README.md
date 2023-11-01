@@ -4,7 +4,7 @@
  </p>
 
 <h2 align="center">
-Check out the <a href="https://forkify-alamin.netlify.app/" target="_blank">live Forkify App here</a>.
+Check out the <a href="https://my-food-recipes-app.netlify.app/" target="_blank">live Forkify App here</a>.
 </h2>
 <p align="left">
 Forkify is an application that allows users to search for recipes from forkify API, bookmark their favorite recipes, and even create their own recipes and upload it. This app is built with HTML5, CSS3, and JavaScript. It features an intuitive user interface and dynamic serving size adjustment. The app uses advanced JavaScript concepts like asynchronous programming, ES6 modules, and object-oriented programming.
